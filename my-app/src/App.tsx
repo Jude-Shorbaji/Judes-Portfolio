@@ -114,6 +114,9 @@ function App() {
             Brunswick · Class of 2028
           </p>
           <h1>Jude Shorbaji</h1>
+          <h2>
+            <i>exploring the frontier of robotics</i>
+          </h2>
           <div className="intro-row">
             <p className="intro">
               A computer engineering student focused on robotics and artificial
