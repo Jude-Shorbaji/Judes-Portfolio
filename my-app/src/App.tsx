@@ -40,7 +40,7 @@ function LerobotVlaPage() {
         </h1>
         <p className="article-lede">
           My first venture into visual language action models, explored through
-          simulation, imitation learning, and the LeRobot ecosystem.
+          imitation learning, and LeRobot.
         </p>
         <div className="article-grid">
           <div>
