@@ -210,8 +210,7 @@ function App() {
             </a>
           </div>
         </div>
-        <div className="contact-content">
-        </div>
+        <div className="contact-content"></div>
         <footer>
           <span>05/2026 Jude Shorbaji</span>
           <a href="#about">Back to top ↑</a>
