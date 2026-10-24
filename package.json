@@ -1,0 +1,11 @@
+{
+  "name": "judes-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npm --prefix my-app run build"
+  },
+  "devDependencies": {
+    "vite": "^8.3.5"
+  }
+}
