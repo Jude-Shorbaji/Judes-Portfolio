@@ -120,10 +120,8 @@ function App() {
           </h1>
           <div className="intro-row">
             <p className="intro">
-              I&apos;m Jude, a computer engineering student focused on robotics
-              and artificial intellegence. I enjoying researching visual
-              languange action models and in my free time I love hiking,
-              watching marvel movies, and baking!
+              A computer engineering student focused on robotics and artificial
+              intellegence and researching visual languange action models.
             </p>
           </div>
           <div className="about-details">
