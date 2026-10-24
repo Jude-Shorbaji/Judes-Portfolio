@@ -113,11 +113,7 @@ function App() {
             Electrical and Computer Engineer · Rutgers University - New
             Brunswick · Class of 2028
           </p>
-          <h1>
-            Exploring the
-            <br />
-            <i>Frontier of Intelligent Robotics</i>
-          </h1>
+          <h1>Jude Shorbaji</h1>
           <div className="intro-row">
             <p className="intro">
               A computer engineering student focused on robotics and artificial
